@@ -6,6 +6,7 @@ public class ControlPlay : MonoBehaviour
 {
 public void OnPressPlay() 
     {
-    Debug.Log("Play")
+
+    //Debug.Log("Play")
     }
 }
