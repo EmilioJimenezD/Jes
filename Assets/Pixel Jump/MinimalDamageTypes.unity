@@ -24447,6 +24447,51 @@ PrefabInstance:
       propertyPath: m_Name
       value: FollowPathRetroBlob
       objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[0].PathElementPosition.x
+      value: -0.108867645
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[0].PathElementPosition.y
+      value: -0.0314579
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[0].PathElementPosition.z
+      value: 0.0013942719
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.x
+      value: -3.5540924
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.y
+      value: 1.3570275
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.z
+      value: 0.0013942719
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[2].PathElementPosition.x
+      value: -6.2726364
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[2].PathElementPosition.y
+      value: 0.89906025
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837795514112207218, guid: 271785ad4a3328642b6c2354e1e9f696,
+        type: 3}
+      propertyPath: PathElements.Array.data[2].PathElementPosition.z
+      value: 0.0013942719
+      objectReference: {fileID: 0}
     - target: {fileID: 2837795514112207219, guid: 271785ad4a3328642b6c2354e1e9f696,
         type: 3}
       propertyPath: m_RootOrder
@@ -24455,12 +24500,12 @@ PrefabInstance:
     - target: {fileID: 2837795514112207219, guid: 271785ad4a3328642b6c2354e1e9f696,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -45.37
+      value: -47.24
       objectReference: {fileID: 0}
     - target: {fileID: 2837795514112207219, guid: 271785ad4a3328642b6c2354e1e9f696,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.62
+      value: 5.68
       objectReference: {fileID: 0}
     - target: {fileID: 2837795514112207219, guid: 271785ad4a3328642b6c2354e1e9f696,
         type: 3}
