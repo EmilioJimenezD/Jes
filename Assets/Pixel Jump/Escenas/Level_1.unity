@@ -4088,6 +4088,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: AchievementDisplay
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011025716940, guid: bf6e65de4f70a4dcf99ceb68e999d287,
+        type: 3}
+      propertyPath: m_Text
+      value: Esquvado!!!
+      objectReference: {fileID: 0}
     - target: {fileID: 114000012046079386, guid: bf6e65de4f70a4dcf99ceb68e999d287,
         type: 3}
       propertyPath: m_Sprite
@@ -11937,6 +11942,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: AchievementDisplay (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011025716940, guid: bf6e65de4f70a4dcf99ceb68e999d287,
+        type: 3}
+      propertyPath: m_Text
+      value: Curaditos
+      objectReference: {fileID: 0}
     - target: {fileID: 114000012046079386, guid: bf6e65de4f70a4dcf99ceb68e999d287,
         type: 3}
       propertyPath: m_Sprite
@@ -13565,6 +13575,11 @@ PrefabInstance:
     - target: {fileID: 1000011764500980, guid: bf6e65de4f70a4dcf99ceb68e999d287, type: 3}
       propertyPath: m_Name
       value: AchievementDisplay (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000011025716940, guid: bf6e65de4f70a4dcf99ceb68e999d287,
+        type: 3}
+      propertyPath: m_Text
+      value: Mas cerca de la princesa
       objectReference: {fileID: 0}
     - target: {fileID: 114000012046079386, guid: bf6e65de4f70a4dcf99ceb68e999d287,
         type: 3}
