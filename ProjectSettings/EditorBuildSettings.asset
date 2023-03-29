@@ -225,6 +225,6 @@ EditorBuildSettings:
     path: Assets/Corgi/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
     guid: 945e5b97212e8e74ebcd35bddde3970c
   - enabled: 1
-    path: Assets/Pixel Jump/Escenas/Level_2.unity
+    path: Assets/Pixel Jump/Escenas/Level_3.unity
     guid: 9cf9f9191b85e8343827040bf6bdcdc7
   m_configObjects: {}
