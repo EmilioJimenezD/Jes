@@ -67,8 +67,7 @@ public class ControlMuerte : MonoBehaviour, MMEventListener<CorgiEngineEvent>,MM
     this.MMEventStartListening<PickableItemEvent>();
     }
 }
-<<<<<<< HEAD
+
 
 */ 
-=======
->>>>>>> 253b64f0f8415d2e39e4c44d352ff3707f94c257
+
