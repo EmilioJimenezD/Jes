@@ -10,7 +10,7 @@ public class PlayerMovements : MonoBehaviour
 {
     private void FixedUpdate()
     {
-        Vector3 U
+        Vector3 U; 
     }
     // Start is called before the first frame update
     void Start()
