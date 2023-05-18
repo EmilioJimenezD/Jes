@@ -1037,6 +1037,7 @@ namespace MoreMountains.CorgiEngine
 			{
 				_damageOnTouch.enabled = false;
 			}
+
 		}
 
 		/// <summary>
@@ -1056,6 +1057,8 @@ namespace MoreMountains.CorgiEngine
 		/// </summary>
 		protected virtual void OnDisable()
 		{
+
+
 			if (CharacterHealth != null)
 			{
 				//_health.OnRevive -= OnRevive;

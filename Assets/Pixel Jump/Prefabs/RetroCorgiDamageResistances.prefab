@@ -6311,13 +6311,13 @@ MonoBehaviour:
   ImmuneToKnockback: 0
   ImmuneToKnockbackIfZeroDamage: 0
   DeathFeedbacks: {fileID: 7137720790722912068}
-  DestroyOnDeath: 1
+  DestroyOnDeath: 0
   DelayBeforeDestruction: 0
   CollisionsOffOnDeath: 1
   GravityOffOnDeath: 0
   PointsWhenDestroyed: 0
-  RespawnAtInitialLocation: 0
-  ApplyDeathForce: 1
+  RespawnAtInitialLocation: 1
+  ApplyDeathForce: 0
   DeathForce: {x: 0, y: 10}
   ResetForcesOnDeath: 0
   ResetColorOnRevive: 1
@@ -7014,7 +7014,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1957880823974621981}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 64a1f59c53ee2b943be20c8f49d4f6e7, type: 3}
   m_Name: 
