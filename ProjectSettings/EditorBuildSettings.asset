@@ -239,4 +239,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Pixel Jump/Escenas/Home.unity
     guid: 76a2e5c540aa0f64b8641cfda6c12118
+  - enabled: 1
+    path: Assets/Pixel Jump/Escenas/Ganaste.unity
+    guid: eff7a3d600a41b748aa7fa952814672a
   m_configObjects: {}
